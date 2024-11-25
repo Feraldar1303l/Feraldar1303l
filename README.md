@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Fernando bocanegra</h1>
 <h3 align="center">A software engineer developer from Mexico</h3>
-<h3 align="center">I am a software development engineer looking for new opportunities to continue exploring my passion for programming. </h3>
+<h3 align="center">I am a software development engineer looking for new opportunities to continue exploring my passion for developing </h3>
 
 - 📄 Know about my experiences - [CV](https://drive.google.com/file/d/1pjiRu-KQzbO2aJaJO8YsUhqqYSxcg2y3/view?usp=sharing)
 
