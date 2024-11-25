@@ -1,8 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+
 <h1 align="center">Hi 👋, I'm Fernando bocanegra</h1>
 <h3 align="center">A software engineer developer from Mexico</h3>
-<h3 align="center">I am a software development engineer looking for new opportunities to continue exploring my passion for programming. With experience in multiple languages ​​as well as relational and non-relational databases, I am constantly expanding my skills. Currently, I am immersed in expanding my knowledge in different Frameworks to continue learning and growing in my field, without leaving aside object-oriented programming and the use, creation and consumption of APIs. In addition, I am familiar with different agile methodologies, such as Scrum and Kanban, and implementation of the DevOps methodology.
-I have been fortunate to work on various software development projects, which has taught me the importance of teamwork and collaborative problem solving. I am a passionate self-taught technology expert, always ready to dive into new challenges and quickly adapt to evolving environments.
-I am excited about the opportunities that the future has in store and I am ready to continue growing and learning in this exciting field.</h3>
+<h3 align="center">I am a software development engineer looking for new opportunities to continue exploring my passion for programming. </h3>
 
 - 📄 Know about my experiences - [CV](https://drive.google.com/file/d/1pjiRu-KQzbO2aJaJO8YsUhqqYSxcg2y3/view?usp=sharing)
 
